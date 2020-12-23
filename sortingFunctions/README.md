@@ -1,6 +1,6 @@
 # Recursive Functions
-Date: September 7 2019</br>
-Author: Caroline Yau</br>
+Date: September 7 2019  
+Author: Caroline Yau  
 
 ## Functions Included
 1. **frisbeeSort**: a function that expects one argument, a possibly unsorted list of numbers representing frisbees, that uses the frisbee flipping technique to sort the list. 
